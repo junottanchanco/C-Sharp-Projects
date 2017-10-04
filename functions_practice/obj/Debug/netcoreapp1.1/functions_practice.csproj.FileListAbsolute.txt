@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\C#Assignments\functions_practice\bin\Debug\netcoreapp1.1\functions_practice.deps.json
+C:\Users\User\Desktop\C#Assignments\functions_practice\bin\Debug\netcoreapp1.1\functions_practice.runtimeconfig.json
+C:\Users\User\Desktop\C#Assignments\functions_practice\bin\Debug\netcoreapp1.1\functions_practice.runtimeconfig.dev.json
+C:\Users\User\Desktop\C#Assignments\functions_practice\bin\Debug\netcoreapp1.1\functions_practice.dll
+C:\Users\User\Desktop\C#Assignments\functions_practice\bin\Debug\netcoreapp1.1\functions_practice.pdb
+C:\Users\User\Desktop\C#Assignments\functions_practice\obj\Debug\netcoreapp1.1\functions_practice.AssemblyInfo.cs
+C:\Users\User\Desktop\C#Assignments\functions_practice\obj\Debug\netcoreapp1.1\functions_practice.dll
+C:\Users\User\Desktop\C#Assignments\functions_practice\obj\Debug\netcoreapp1.1\functions_practice.pdb
