@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\C#Assignments\puzzles\bin\Debug\netcoreapp1.1\puzzles.deps.json
+C:\Users\User\Desktop\C#Assignments\puzzles\bin\Debug\netcoreapp1.1\puzzles.runtimeconfig.json
+C:\Users\User\Desktop\C#Assignments\puzzles\bin\Debug\netcoreapp1.1\puzzles.runtimeconfig.dev.json
+C:\Users\User\Desktop\C#Assignments\puzzles\bin\Debug\netcoreapp1.1\puzzles.dll
+C:\Users\User\Desktop\C#Assignments\puzzles\bin\Debug\netcoreapp1.1\puzzles.pdb
+C:\Users\User\Desktop\C#Assignments\puzzles\obj\Debug\netcoreapp1.1\puzzles.AssemblyInfo.cs
+C:\Users\User\Desktop\C#Assignments\puzzles\obj\Debug\netcoreapp1.1\puzzles.dll
+C:\Users\User\Desktop\C#Assignments\puzzles\obj\Debug\netcoreapp1.1\puzzles.pdb
